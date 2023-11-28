@@ -1,5 +1,7 @@
 # Azure Functions - Function as a Service
 
+![Screenshot 2023-11-28 120353](https://github.com/codewithelmor/azure-functions/assets/44918452/63286fb0-5486-4682-aa8c-8dcd02ad8604)
+
 **`Azure Functions`** is a serverless compute service provided by Microsoft Azure. It allows you to run event-triggered code without explicitly provisioning or managing infrastructure. With Azure Functions, you can focus on writing the code that matters for your application, and Azure takes care of the underlying infrastructure and scaling.
 
 Key features of Azure Functions include:
